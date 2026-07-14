@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+<defs>
+    <linearGradient id="g12" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0fdfa"/>
+      <stop offset="1" stop-color="#ccfbf1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="500" fill="url(#g12)"/><path d="M120 180.0 L160 180.0 L180 200.0 L280 200.0 L280 330.0 L120 330.0 Z" fill="#0f766e" opacity="0.85"/><text x="200" y="280.0" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#f59e0b" text-anchor="middle">1</text><path d="M420 180.0 L460 180.0 L480 200.0 L580 200.0 L580 330.0 L420 330.0 Z" fill="#0f766e" opacity="0.85"/><text x="500" y="280.0" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#f59e0b" text-anchor="middle">2</text><path d="M720 180.0 L760 180.0 L780 200.0 L880 200.0 L880 330.0 L720 330.0 Z" fill="#0f766e" opacity="0.85"/><text x="800" y="280.0" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#f59e0b" text-anchor="middle">3</text><path d="M1020 180.0 L1060 180.0 L1080 200.0 L1180 200.0 L1180 330.0 L1020 330.0 Z" fill="#0f766e" opacity="0.85"/><text x="1100" y="280.0" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#f59e0b" text-anchor="middle">4</text><text x="750.0" y="90" font-family="Georgia,serif" font-size="36" font-weight="700" fill="#134e4a" text-anchor="middle">DOWNLOAD MATERI</text><text x="750.0" y="460" font-family="Georgia,serif" font-size="16" fill="#134e4a" text-anchor="middle" opacity="0.7">Per-Module Resource Files</text>
+</svg>
